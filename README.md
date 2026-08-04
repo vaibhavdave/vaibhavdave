@@ -1,7 +1,7 @@
 
 <br/><br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=800&color=0EA5E9&center=true&vCenter=true&width=780&lines=Building+distributed+systems+at+scale;Java+%7C+Python+%7C+Scala+%7C+Kubernetes+%7C+Kafka;Turning+complex+problems+into+simple%2C+reliable+systems" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=800&color=0EA5E9&center=true&vCenter=true&width=780&lines=Building+distributed+systems+at+scale;Turning+complex+problems+into+simple%2C+reliable+systems" alt="Typing SVG" />
 
 </div>
 
