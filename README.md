@@ -13,9 +13,9 @@ A few things I care about, in no particular order:
  
 - ⚙️ Architecture that survives contact with real traffic, not just design docs
 - 🔄 Event-driven systems, and the very fine line between "eventually consistent" and "eventually on-call"
-- 🧩 Making distributed systems boring — predictable, observable, and unsurprising
+- 🧩 Making distributed systems boring - predictable, observable, and unsurprising
 - 🤖 Where GenAI actually earns its place in a production pipeline vs. where it's just a demo
-I spend a good chunk of time in the gap between "it works on my machine" and "it works for everyone, always
+I spend a good chunk of time in the gap between "it works on my machine" and "it works for everyone, always"
 
 <br/>
 
